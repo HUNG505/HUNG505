@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Hung!
+
+I am a beginner in programming languages now 🏋️
+
+
 
 <!--
 **HUNG505/HUNG505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
